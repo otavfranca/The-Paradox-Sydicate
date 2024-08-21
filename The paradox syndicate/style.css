@@ -9,8 +9,8 @@ body {
     margin: 0;
 }
 
-button{
-    background-color: #020700;
+button {
+    background-color: #000000;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
@@ -20,7 +20,7 @@ button{
 }
 
 .passo.ativo {
-    display: block;
+    display:block;
 }
 
 main {
@@ -28,6 +28,6 @@ main {
     max-width: 90%;
 }
 
-img{
+img {
     max-width: 90%;
 }
